@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: url('img/hero-bg.jpg') no-repeat center center/cover;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+#skills i {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+#skills h4 {
+    margin-top: 10px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
